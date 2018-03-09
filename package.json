@@ -1,0 +1,22 @@
+{
+  "name": "des-initial-permutation",
+  "version": "0.0.0",
+  "description": "DES Initial Permutation",
+  "license": "MIT",
+  "repository": "ziyaddin/des-initial-permutation",
+  "author": {
+    "name": "Ziyaddin Sadigov",
+    "email": "ziyaddinsadigov@gmail.com",
+    "url": "ziyaddin.github.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "des",
+    "initial permutation",
+    "cryptography",
+    "encryption",
+    "decryption"
+  ]
+}
